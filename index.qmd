@@ -1,0 +1,34 @@
+\]
+
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+# Prefácio {.unnumbered}
+
+No final dos anos de 1950, Alan Turing, o pai da ciência da computação, lançou um desafio ousado: ele imaginou um futuro em que as máquinas poderiam simular inteligência  humana tão bem que um juiz humano nçao conseguiria distinguir entre as respostas de uma maquina e de uma pessoa. Esse foi o pontapé inicial para uma corrida  repleta de obstaculos, sucessos e fracassos notáveis.
+
+Hoje, estamos muito mais próximos de realizar essa visão do que jamais estivemos, graças aos modelos de linguagem.
+
+A áerea de processamento de linguagem natural alcançou um progresso técnico fantástico com o passar dos anos, mas até recentemente o uso da tecnologia estava limitado a algumas poucas pessoas.
+
+Nesse contexto, este livro foi prejetado para ser acessível a todas as pessoas, mas algum conhecimento básico de R e Python pode ajudar. Com uso de explicações claras, exemplos de projeto e instruções passo a passo, venha descobrir o mundo mágico do GPT e o ChatGPT, podem transformar a maneira de interagirmos com as máquinas.
+
+
+
+
+
+
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::

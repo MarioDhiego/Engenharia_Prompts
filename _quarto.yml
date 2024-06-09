@@ -1,0 +1,45 @@
+# Preâmbulo Geral
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "**Engenharia de Prompts**"
+  reader-mode: true
+  subtitle: "**Exemplos no R**"
+  date: "29/02/2024"
+  author:
+  - name: "**Mário Diego Rocha Valente**"
+    orcid: 0000-0001-7262-3336
+    corresponding: true
+
+  page-footer:
+    left: |
+      Copyright: (VALENTE et. al, 2024)
+    right: |
+      Construído <a href="https://quarto.org/">Pacote Quarto no R4.3</a>.
+  cover-image: Prompt_Engineering.jpg
+  favicon: Prompt_Engineering.jpg
+  repo-url : https://github.com/MarioDhiego/Estatistica_Municipal_Fapespa_Belem
+  repo-branch: main
+  repo-actions: [edit, issue]
+  downloads: [pdf, docx]
+  sharing: [twitter, facebook]
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - LLM.qmd
+    - summary.qmd
+    - references.qmd
+comments:
+  hypothesis: true
+bibliography: references.bib
+format:
+  html:
+    theme:
+      light: [blue,custom.scss]
+      dark:  [cyborg,custom.scss]
+    code-link: true
+    toc-title: Índice
+    toc-location: right

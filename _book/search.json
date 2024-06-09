@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ENGENHARIA DE PROMPTS",
+    "section": "",
+    "text": "]\n\n\n\n\n\n\n\nPrefácio\nApós sete dias do lançamento do ChatGPT alcançou uma marca impressionante de um milhão de usuários, impactando não só o setor tecnológico, mas também outras áreas."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introdução ao GPT",
+    "section": "",
+    "text": "Imagine um mundo em que você pudesse se comunicar por computadores com seus amigos o mais rápido possível. Como isso ocorreria? Que Aplicações podria criar? Esse é o mundo que a OpenAI está ajudando a construir com seus modelos GPT, levando habilidades de comunicação semelhantes às humanas para nossos dispositivos.\nSendo os avanços mais recentes em AI, o GPT-4 e outros modelos GPT são chamados de LLMs(Large Language Models), ou seja, Grandes Modelos de Linguagem, treinados com volumosas quantidades de dados, que lhes permitem reconhecer e gerar texto como o dos humanos com precisão bastante alta.\nAs aplicações desses modelos de IA vão muito além de simples assistentes de voz. Graças aos modelos da OpenAI, agora os desenvolvedores podem expolorar o poder do NLP (Natural Language Processing), processamento de linguagem natural, para criar aplicações que entendem nossas necessidades de maneiras que no passado pareciam apenas ficção científica.\nNo entanto, o que são o GPT e o ChatGPT?."
+  },
+  {
+    "objectID": "LLM.html",
+    "href": "LLM.html",
+    "title": "2  Modelos de Linguagem",
+    "section": "",
+    "text": "Os modelo de linguagem São ferramentas probabilísticas que analisam e geram sequências de palavras com base em dados textuais. Inicialmente, os modelos mais simples eram baseados em estatísticas puras, como os n-grams, que tantavam prever a próxima palavra de uma frase com base nas palavras anteriores.\nOs modelos n-gramas usam a frequência para fazer isso. A próxima palavra prevista é a mais frequente após as palavras anteriores do texto com o qual o n-grama foi treinado.\nPara melhorar o desempenho dos modelos n-gramas, algoritmos de aprendizado mais avançados foram introduzidos, incluindo as RNNs(Recurrent Neural Networks), redes neurais recorrentes, e as LSTM(Long Short-Term Memory), redes de memória de longo e curto prazo."
+  },
+  {
+    "objectID": "summary.html#gpt-1",
+    "href": "summary.html#gpt-1",
+    "title": "3  Um Breve Histórico do GPT",
+    "section": "3.1 GPT-1",
+    "text": "3.1 GPT-1\nEm meados de 2018, apenas um ano após a invensão da Arquitetura Transfomer, a OpenAI publicou um artigo chamado “Improving Language Understanding by Generative Pre-Training”, de autoria Radford e colaboradores, em que a empresa apresentou o Generative Pre-Trained Transformer chamado no Brasil de Transformador Pré-Treinado Generativo, também conhecido como GPT-1.\nEm seu artigo, os autores do GPT-1 propuseram um novo processo de aprendizado em que uma etapa de pré-treinamento não supervisionado foi introduzida.\nO modelo é treinado para prever que será o próximo token. O GPT-1 usava o conjunto de dados BooksCorpus, que contém o texto de aproximadamente 11.000 livros não publicados (Zhu et all, 2015).\nO GPT-1 é um modelo pequeno, não consegui executar tarefas complexas sem ajuste fino."
+  },
+  {
+    "objectID": "summary.html#gpt-2",
+    "href": "summary.html#gpt-2",
+    "title": "3  Um Breve Histórico do GPT",
+    "section": "3.2 GPT-2",
+    "text": "3.2 GPT-2\nNo inicío de 2019, a OpenAI propôs o GPT-2"
+  },
+  {
+    "objectID": "summary.html#gpt-3",
+    "href": "summary.html#gpt-3",
+    "title": "3  Um Breve Histórico do GPT",
+    "section": "3.3 GPT-3",
+    "text": "3.3 GPT-3"
+  },
+  {
+    "objectID": "summary.html#gpt-4",
+    "href": "summary.html#gpt-4",
+    "title": "3  Um Breve Histórico do GPT",
+    "section": "3.4 GPT-4",
+    "text": "3.4 GPT-4"
+  }
+]

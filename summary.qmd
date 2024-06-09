@@ -1,0 +1,72 @@
+
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+# **Histórico do GPT**
+## GPT-1
+
+Em meados de 2018, apenas um ano após a invensão da **Arquitetura Transfomer**, a OpenAI publicou um artigo chamado "Improving Language Understanding by Generative Pre-Training", de autoria Radford e colaboradores, em que a empresa apresentou o **Generative Pre-Trained Transformer** chamado no Brasil de Transformador Pré-Treinado Generativo, também conhecido como GPT-1.
+
+Em seu artigo, os autores do GPT-1 propuseram um novo processo de aprendizado em que uma etapa de pré-treinamento não supervisionado foi introduzida.
+
+O modelo é treinado para prever que será o próximo token. O GPT-1 usava o conjunto de dados **BooksCorpus**, que contém o texto de aproximadamente 11.000 livros não publicados (Zhu et all, 2015).
+
+O GPT-1 é um modelo pequeno, não consegui executar tarefas complexas sem ajuste fino.
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+
+## GPT-2
+
+No inicío de 2019, a OpenAI propôs o GPT-2, uma versão ampliada do modelo GPT-1 que aumentou em 10 vezes o número de parâmetros e o tamanho do conjunto de dados de treinamento. 
+
+O número de parâmetros dessa nova versão era de 1.5 bilhão e ela era treinada com 40 gigas de texto.
+
+Em novembro de 2019, a OpenAI lançou a versão completa do modelo de linguagem GPT-2.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## GPT-3
+
+A OpenAI lancou a versão 3 do GPT em junho de 2020. As principais diferenças entre o GPT-2 e o GPT-3 são o tamanho do modelo e a quantidade de dados usada para treinamento.
+
+O GPT-3 é um modelo maior que o anterior, com 185 bilhões de parâmetros, o que permite capturar padrões mais complexos.
+
+
+Em 2021, uma nova versão do modelo GPT-3 foi publicada, chamada de **Instruct Series**. Ao contrário do modelo base GPT-3 original, os modelos de Instrução são otimizados pelo **Aprendizado por Esforço** com feedback humano, o que significa que usam para aprender e melhorar com o tempo, tornando-se mais confiáveis e menos inconvenientes.
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+## GPT-4
+
+
+Em março de 2023, a OpenAI tornou o GPT-4 disponível. Ao contrário dos outros modelos da família GPT da OpenAI, o GPT-4 é o primeiro **Modelo Multimodal** capaz de receber não só texto, mas também imagens.
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::

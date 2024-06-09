@@ -1,0 +1,33 @@
+
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+  
+# **Modelos de Linguagem**
+
+Os modelo de linguagem São ferramentas probabilísticas que analisam e geram sequências de palavras com base em dados textuais. Inicialmente, os modelos mais simples eram baseados em estatísticas puras, como os **n-grams**, que tantavam prever a próxima palavra de uma frase com base nas palavras anteriores. 
+
+Os modelos n-gramas usam a frequência para fazer isso. A próxima palavra prevista é a mais frequente após as palavras anteriores do texto com o qual o n-grama foi treinado.
+
+Para melhorar o desempenho dos modelos n-gramas, algoritmos de aprendizado mais avançados foram introduzidos, incluindo as **RNNs(Recurrent Neural Networks)**, redes neurais recorrentes, e as **LSTM(Long Short-Term Memory)**, redes de memória de longo e curto prazo.
+
+
+
+
+
+
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::

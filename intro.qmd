@@ -1,0 +1,32 @@
+
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+# **Introdução**
+
+Imagine um mundo em que você pudesse se comunicar por computadores com seus amigos o mais rápido possível. Como isso ocorreria? Que Aplicações podria criar? Esse é o mundo que a **OpenAI** está ajudando a construir com seus modelos **GPT**, levando habilidades de comunicação semelhantes às humanas para nossos dispositivos.
+
+Sendo os avanços mais recentes em **AI**, o **GPT-4** e outros modelos GPT são chamados de **LLMs(Large Language Models)**, ou seja, **Grandes Modelos de Linguagem**, treinados com volumosas quantidades de dados, que lhes permitem reconhecer e gerar texto como o dos humanos com precisão bastante alta.
+
+
+As aplicações desses modelos de IA vão muito além de simples assistentes de voz. Graças aos modelos da OpenAI, agora os desenvolvedores podem expolorar o poder do **NLP (Natural Language Processing)**, processamento de linguagem natural, para criar aplicações que entendem nossas necessidades de maneiras que no passado pareciam apenas ficção científica.
+
+
+No entanto, o que são o **GPT** e o **ChatGPT**?.
+
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
